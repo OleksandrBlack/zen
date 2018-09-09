@@ -51,6 +51,7 @@ testScripts=(
     'bip65-cltv-p2p.py'
     'bipdersig-p2p.py'
     'nulldata.py'
+    'blockdelay.py'
 );
 # ZEN_MOD_START
 testScriptsExt=(
